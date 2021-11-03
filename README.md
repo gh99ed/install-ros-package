@@ -2,7 +2,7 @@
 # First:  use catkin_make to prepare the ROS
 # Then: - install arduino_robot_arm package
 #       - use the following code : 
-~~~
+~~~python
 roslaunch robot_arm_pkg check_motors.launch
 ~~~
 #  to control the motors.
